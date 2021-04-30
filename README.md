@@ -7,6 +7,7 @@ A Python Tool for crack zip password.
 * python 3.8.3
 
 # Installation :
+```bash
 * apt update
 
 * apt upgrade
@@ -18,14 +19,14 @@ A Python Tool for crack zip password.
 * git clone https://www.github.com/teamx4ck/Xzip
 
 * pip install tqdm
-
+```
 # Run :
-'''bash
-python xzip.py <target zip> <wordlist>
-'''
+```bash
+$ python xzip.py <target zip> <wordlist>
+```
 # Next update
 * 1) dictionary attack
-* 2) random nimber attack
+* 2) random number attack
 
 # author :
 * 1) Rakib Hossain
